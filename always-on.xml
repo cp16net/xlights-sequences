@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1">
+  <head>
+    <version>4.2.9</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>5</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#00FF00,C_BUTTON_Palette3=#0000FF,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#000000,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=0,C_SLIDER_Brightness=107,C_SLIDER_Contrast=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_On_Shimmer=0,E_TEXTCTRL_Eff_On_End=100,E_TEXTCTRL_Eff_On_Start=100,E_TEXTCTRL_On_Cycles=0.0,T_CHECKBOX_LayerMorph=0,T_CHECKBOX_OverlayBkg=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadein=0,T_TEXTCTRL_Fadeout=0.00</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="-1879046152" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="Empty" visible="1" active="0" views=""/>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" active="1" views=""/>
+    <Element collapsed="0" type="model" name="Mini Tree #1 Blue" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="Mini Tree #1 Red" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="Mini Tree #2 Blue" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="Mini Tree #2 Red" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="Mini Tree #3 Blue" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="Mini Tree #3 Red" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="Mini Tree #4 Blue" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="Mini Tree #4 Red" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="Mini Tree #5 Blue" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="Mini Tree #5 Red" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="bush left red" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="bush left white" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="bush right red" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="bush right white" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="led door" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="led double garage" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="led drip tubes in trees" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="led left column" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="led left column twinklers" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="led outside sidewalk multicolor" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="led right column" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="led roof of house" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="led sidewalk outline inside" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="led single garage door" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="led stars in window" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="tree trunk left multicolor" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="tree trunk left white" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="tree trunk right multicolor" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="tree trunk right white" visible="1" active="0"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="Empty">
+      <EffectLayer/>
+    </Element>
+    <Element type="timing" name="New Timing">
+      <EffectLayer>
+        <Effect label="" startTime="0" endTime="5350"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Mini Tree #1 Blue">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="5300" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Mini Tree #1 Red">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Mini Tree #2 Blue">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Mini Tree #2 Red">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Mini Tree #3 Blue">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Mini Tree #3 Red">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Mini Tree #4 Blue">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Mini Tree #4 Red">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Mini Tree #5 Blue">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Mini Tree #5 Red">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="bush left red">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="bush left white">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="bush right red">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="bush right white">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="led door">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="led double garage">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="led drip tubes in trees">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="led left column">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="led left column twinklers">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="led outside sidewalk multicolor">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="led right column">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="led roof of house">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="led sidewalk outline inside">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="led single garage door">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="led stars in window">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="tree trunk left multicolor">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="tree trunk left white">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="tree trunk right multicolor">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="tree trunk right white">
+      <EffectLayer>
+        <Effect ref="0" name="On" selected="1" startTime="0" endTime="5350" palette="0"/>
+      </EffectLayer>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+</xsequence>
