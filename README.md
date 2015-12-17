@@ -1,5 +1,5 @@
 # xlights-sequences
-Repository of my xlight sequences i've create
+Repository of xlight sequences
 
 Since all the xlights files are all XML based its easy to share them here.
 
