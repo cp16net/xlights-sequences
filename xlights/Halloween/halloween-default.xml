@@ -2,14 +2,14 @@
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="false">
   <head>
     <version>2017.29</version>
-    <author></author>
-    <author-email></author-email>
-    <author-website></author-website>
-    <song></song>
-    <artist></artist>
-    <album></album>
-    <MusicURL></MusicURL>
-    <comment></comment>
+    <author/>
+    <author-email/>
+    <author-website/>
+    <song/>
+    <artist/>
+    <album/>
+    <MusicURL/>
+    <comment/>
     <sequenceTiming>50 ms</sequenceTiming>
     <sequenceType>Animation</sequenceType>
     <mediaFile/>
@@ -36,8 +36,8 @@
     <DataLayer lor_params="28672" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
   </DataLayers>
   <DisplayElements>
-    <Element collapsed="0" type="timing" name="500ms Metronome" visible="1" views="" active="1"/>
-    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="RGB,led" active="0"/>
+    <Element collapsed="0" type="timing" name="500ms Metronome" visible="0" views="" active="1"/>
+    <Element collapsed="0" type="timing" name="New Timing" visible="0" views="RGB,led" active="0"/>
     <Element collapsed="0" type="model" name="All LED Front of House Elements" visible="1"/>
     <Element collapsed="0" type="model" name="All Mini Trees" visible="1"/>
     <Element collapsed="0" type="model" name="All Red Mini Trees" visible="1"/>
@@ -100,6 +100,31 @@
     <Element collapsed="0" type="model" name="led twinklers" visible="1"/>
     <Element collapsed="0" type="model" name="RGB House Roof" visible="1"/>
     <Element collapsed="0" type="model" name="Spiral Trees" visible="1"/>
+    <Element collapsed="0" type="model" name="Wreath-inside" visible="1"/>
+    <Element collapsed="0" type="model" name="Wreath-middle" visible="1"/>
+    <Element collapsed="0" type="model" name="Wreath-outside" visible="1"/>
+    <Element collapsed="0" type="model" name="Double Garage RGB" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Garage RGB" visible="1"/>
+    <Element collapsed="0" type="model" name="Goal Post" visible="0"/>
+    <Element collapsed="0" type="model" name="Saguaro" visible="0"/>
+    <Element collapsed="0" type="model" name="16 inch 2 prong-1" visible="0"/>
+    <Element collapsed="0" type="model" name="16 inch 2 prong-2" visible="0"/>
+    <Element collapsed="0" type="model" name="16 inch 2 prong-3" visible="0"/>
+    <Element collapsed="0" type="model" name="16 inch 2 prong-4" visible="0"/>
+    <Element collapsed="0" type="model" name="16 inch 3 prong-1" visible="0"/>
+    <Element collapsed="0" type="model" name="16 inch 3 prong-2" visible="0"/>
+    <Element collapsed="0" type="model" name="16 inch 3 prong-3" visible="0"/>
+    <Element collapsed="0" type="model" name="16 inch 3 prong-4" visible="0"/>
+    <Element collapsed="0" type="model" name="16 inch Arrow-1" visible="0"/>
+    <Element collapsed="0" type="model" name="16 inch Arrow-2" visible="0"/>
+    <Element collapsed="0" type="model" name="16 inch Arrow-3" visible="0"/>
+    <Element collapsed="0" type="model" name="16 inch Arrow-4" visible="0"/>
+    <Element collapsed="0" type="model" name="ChromaStar Tree Topper" visible="0"/>
+    <Element collapsed="0" type="model" name="MediumFlake4-1" visible="0"/>
+    <Element collapsed="0" type="model" name="MediumFlake4-2" visible="0"/>
+    <Element collapsed="0" type="model" name="MediumFlake4-3" visible="0"/>
+    <Element collapsed="0" type="model" name="MediumFlake4-4" visible="0"/>
+    <Element collapsed="0" type="model" name="Megaflake LLS" visible="0"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="500ms Metronome" fixed="500">
@@ -313,6 +338,81 @@
     <Element type="model" name="Spiral Trees">
       <EffectLayer/>
     </Element>
+    <Element type="model" name="Wreath-inside">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Wreath-middle">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Wreath-outside">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Double Garage RGB">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Garage RGB">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Goal Post">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Saguaro">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="16 inch 2 prong-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="16 inch 2 prong-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="16 inch 2 prong-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="16 inch 2 prong-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="16 inch 3 prong-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="16 inch 3 prong-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="16 inch 3 prong-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="16 inch 3 prong-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="16 inch Arrow-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="16 inch Arrow-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="16 inch Arrow-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="16 inch Arrow-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="ChromaStar Tree Topper">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="MediumFlake4-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="MediumFlake4-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="MediumFlake4-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="MediumFlake4-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Megaflake LLS">
+      <EffectLayer/>
+    </Element>
   </ElementEffects>
-  <lastView>0</lastView>
+  <lastView>3</lastView>
 </xsequence>
