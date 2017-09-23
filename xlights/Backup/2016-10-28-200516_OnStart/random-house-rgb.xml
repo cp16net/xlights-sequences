@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1">
+  <head>
+    <version>4.3.01</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>60.000</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_SLIDER_Brightness=100,C_SLIDER_Contrast=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#FF0000,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_SLIDER_Brightness=100,C_SLIDER_Contrast=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Mirror_Wave=0,E_CHOICE_Fill_Colors=Palette,E_CHOICE_Wave_Direction=Left to Right,E_CHOICE_Wave_Type=Sine,E_SLIDER_Number_Waves=3028,E_SLIDER_Thickness_Percentage=5,E_SLIDER_Wave_Height=50,E_TEXTCTRL_Wave_Speed=20,T_CHECKBOX_LayerMorph=0,T_CHECKBOX_OverlayBkg=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadein=0.00,T_TEXTCTRL_Fadeout=0.00</Effect>
+    <Effect>E_CHECKBOX_Mirror_Wave=0,E_CHOICE_Fill_Colors=Palette,E_CHOICE_Wave_Direction=Right to Left,E_CHOICE_Wave_Type=Sine,E_SLIDER_Number_Waves=3028,E_SLIDER_Thickness_Percentage=5,E_SLIDER_Wave_Height=50,E_TEXTCTRL_Wave_Speed=20,T_CHECKBOX_LayerMorph=0,T_CHECKBOX_OverlayBkg=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadein=0.00,T_TEXTCTRL_Fadeout=0.00</Effect>
+    <Effect>E_CHECKBOX_ColorWash_CircularPalette=0,E_CHECKBOX_ColorWash_EntireModel=1,E_CHECKBOX_ColorWash_HFade=0,E_CHECKBOX_ColorWash_Shimmer=0,E_CHECKBOX_ColorWash_VFade=0,E_TEXTCTRL_ColorWash_Cycles=1.0,T_CHECKBOX_LayerMorph=0,T_CHECKBOX_OverlayBkg=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadein=0.00,T_TEXTCTRL_Fadeout=0.00</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=0,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=2,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=50,E_TEXTCTRL_Spirals_Movement=1.0,T_CHECKBOX_LayerMorph=0,T_CHECKBOX_OverlayBkg=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadein=0.00,T_TEXTCTRL_Fadeout=0.00</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=0,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=2,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=50,E_TEXTCTRL_Spirals_Movement=-1.0,T_CHECKBOX_LayerMorph=0,T_CHECKBOX_OverlayBkg=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadein=0.00,T_TEXTCTRL_Fadeout=0.00</Effect>
+    <Effect>E_CHOICE_Butterfly_Colors=Rainbow,E_CHOICE_Butterfly_Direction=Normal,E_SLIDER_Butterfly_Chunks=1,E_SLIDER_Butterfly_Skip=2,E_SLIDER_Butterfly_Speed=10,E_SLIDER_Butterfly_Style=1,T_CHECKBOX_LayerMorph=0,T_CHECKBOX_OverlayBkg=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadein=0.00,T_TEXTCTRL_Fadeout=0.00</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" active="0" views="RGB,led"/>
+    <Element collapsed="0" type="timing" name="100ms" visible="1" active="1" views="RGB,led"/>
+    <Element collapsed="0" type="model" name="All RGB House" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="All Flood Lights" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="RGB Megatree" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="All LED Front of House Elements" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="All Mini Trees" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="All On Trees" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="All Blue Mini Trees" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="All Red Mini Trees" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="All Multi Color Lights" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="All White Lights" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="RGB Left Garage" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="RGB Left Offset Garage" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="RGB Left Peek Garage" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="RGB Right Offset Garage" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="RGB Right Peek Garage" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="RGB Roof Front House" visible="0" active="0"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="timing" name="100ms" fixed="100">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All RGB House">
+      <EffectLayer>
+        <Effect ref="0" name="Wave" startTime="0" endTime="5000" palette="0"/>
+        <Effect ref="1" name="Wave" id="1" startTime="5000" endTime="9900" palette="0"/>
+        <Effect ref="2" name="Color Wash" id="2" startTime="9900" endTime="15000" palette="0"/>
+        <Effect ref="2" name="Color Wash" id="3" startTime="15000" endTime="20000" palette="1"/>
+        <Effect ref="2" name="Color Wash" id="4" startTime="20000" endTime="24975" palette="0"/>
+        <Effect ref="2" name="Color Wash" id="5" startTime="24975" endTime="30000" palette="1"/>
+        <Effect ref="2" name="Color Wash" id="6" startTime="30000" endTime="35000" palette="0"/>
+        <Effect ref="0" name="Wave" id="7" startTime="35000" endTime="40000" palette="0"/>
+        <Effect ref="1" name="Wave" id="8" startTime="40000" endTime="44900" palette="0"/>
+        <Effect ref="3" name="Spirals" id="9" startTime="44925" endTime="49800" palette="0"/>
+        <Effect ref="4" name="Spirals" id="10" startTime="49800" endTime="54825" palette="0"/>
+        <Effect ref="5" name="Butterfly" selected="1" id="11" startTime="54825" endTime="60475" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="All Flood Lights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB Megatree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All LED Front of House Elements">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Mini Trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All On Trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Blue Mini Trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Red Mini Trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Multi Color Lights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All White Lights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB Left Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB Left Offset Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB Left Peek Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB Right Offset Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB Right Peek Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB Roof Front House">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>1</lastView>
+</xsequence>
