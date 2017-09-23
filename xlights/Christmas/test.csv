@@ -1,0 +1,9 @@
+Effect Name,StartTime,EndTime,Duration,Description,Element,ElementType
+"Butterfly",00:00.050,00:30.050,00:30.000,"","ALL RGB",Model Group
+"On",00:00.000,00:30.150,00:30.150,"","RGB Display Sign",Model
+"Effect Count",2
+
+Effect Usage Summary
+Effect Name,Occurences,TotalTime
+"Butterfly",1,00:30.000
+"On",1,00:30.150

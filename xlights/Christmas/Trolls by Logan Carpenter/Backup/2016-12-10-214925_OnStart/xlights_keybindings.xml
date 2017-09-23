@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keybindings>
+  <keybinding key="t" type="TIMING_ADD"/>
+  <keybinding key="s" type="TIMING_SPLIT"/>
+  <keybinding key="+" type="ZOOM_IN"/>
+  <keybinding key="-" type="ZOOM_OUT"/>
+  <keybinding key="R" type="RANDOM"/>
+  <keybinding key="o" type="EFFECT" effect="On" xLightsVersion="2016.52">E_TEXTCTRL_Eff_On_End=100,E_TEXTCTRL_Eff_On_Start=100</keybinding>
+  <keybinding key="u" type="EFFECT" effect="On" xLightsVersion="2016.52">E_TEXTCTRL_Eff_On_End=100,E_TEXTCTRL_Eff_On_Start=0</keybinding>
+  <keybinding key="d" type="EFFECT" effect="On" xLightsVersion="2016.52">E_TEXTCTRL_Eff_On_End=0,E_TEXTCTRL_Eff_On_Start=100</keybinding>
+  <keybinding key="m" type="EFFECT" effect="Morph" xLightsVersion="2016.52"></keybinding>
+  <keybinding key="c" type="EFFECT" effect="Curtain" xLightsVersion="2016.52"></keybinding>
+  <keybinding key="i" type="EFFECT" effect="Circles" xLightsVersion="2016.52"></keybinding>
+  <keybinding key="b" type="EFFECT" effect="Bars" xLightsVersion="2016.52"></keybinding>
+  <keybinding key="y" type="EFFECT" effect="Butterfly" xLightsVersion="2016.52"></keybinding>
+  <keybinding key="f" type="EFFECT" effect="Fire" xLightsVersion="2016.52"></keybinding>
+  <keybinding key="g" type="EFFECT" effect="Garlands" xLightsVersion="2016.52"></keybinding>
+  <keybinding key="p" type="EFFECT" effect="Pinwheel" xLightsVersion="2016.52"></keybinding>
+  <keybinding key="r" type="EFFECT" effect="Ripple" xLightsVersion="2016.52"></keybinding>
+  <keybinding key="x" type="EFFECT" effect="Text" xLightsVersion="2016.52"></keybinding>
+  <keybinding key="S" type="EFFECT" effect="Spirals" xLightsVersion="2016.52"></keybinding>
+  <keybinding key="w" type="EFFECT" effect="Color Wash" xLightsVersion="2016.52"></keybinding>
+  <keybinding key="n" type="EFFECT" effect="Snowflakes" xLightsVersion="2016.52"></keybinding>
+  <keybinding key="O" type="EFFECT" effect="Off" xLightsVersion="2016.52"></keybinding>
+  <keybinding key="F" type="EFFECT" effect="Fan" xLightsVersion="2016.52"></keybinding>
+</keybindings>

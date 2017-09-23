@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="false">
+  <head>
+    <version>2017.29</version>
+    <author/>
+    <author-email/>
+    <author-website/>
+    <song/>
+    <artist/>
+    <album/>
+    <MusicURL/>
+    <comment/>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile/>
+    <sequenceDuration>20.000</sequenceDuration>
+    <imageDir/>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#000000,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#BD2300,C_BUTTON_Palette8=#000000,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#000000,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#FFA500,C_BUTTON_Palette8=#000000,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1,C_SLIDER_SparkleFrequency=20</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#000000,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#FFA500,C_BUTTON_Palette8=#000000,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1,C_SLIDER_SparkleFrequency=8</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#000000,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#FFA500,C_BUTTON_Palette8=#000000,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1,C_SLIDER_SparkleFrequency=39</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#000000,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#FFA500,C_BUTTON_Palette8=#000000,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1,C_SLIDER_SparkleFrequency=176</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#000000,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#FFA500,C_BUTTON_Palette8=#000000,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1,C_SLIDER_SparkleFrequency=43</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#000000,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#FFA500,C_BUTTON_Palette8=#000000,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1,C_SLIDER_SparkleFrequency=40</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#000000,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#FFA500,C_BUTTON_Palette8=#000000,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1,C_SLIDER_SparkleFrequency=24</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect></Effect>
+    <Effect>E_TEXTCTRL_Eff_On_Start=12</Effect>
+    <Effect>E_TEXTCTRL_Eff_On_End=12</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="28672" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="500ms Metronome" visible="1" views="" active="1"/>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="RGB,led" active="0"/>
+    <Element collapsed="0" type="model" name="All LED Front of House Elements" visible="1"/>
+    <Element collapsed="0" type="model" name="All Mini Trees" visible="1"/>
+    <Element collapsed="0" type="model" name="All Red Mini Trees" visible="1"/>
+    <Element collapsed="0" type="model" name="All Blue Mini Trees" visible="1"/>
+    <Element collapsed="0" type="model" name="All On Trees" visible="1"/>
+    <Element collapsed="0" type="model" name="All EVERYTHING" visible="1"/>
+    <Element collapsed="0" type="model" name="All Flood Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="All RGB House" visible="1"/>
+    <Element collapsed="0" type="model" name="ALL RGB" visible="1"/>
+    <Element collapsed="0" type="model" name="All White Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="p10 matrix" visible="1"/>
+    <Element collapsed="0" type="model" name="Spiral Tree 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Spiral Tree 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Spiral Tree Large 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Spiral Tree Large 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Spiral Tree Large 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Spiral Tree 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Window Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Window Right" visible="1"/>
+    <Element collapsed="0" type="model" name="led drip tubes in trees" visible="1"/>
+    <Element collapsed="0" type="model" name="led outside sidewalk multicolor" visible="1"/>
+    <Element collapsed="0" type="model" name="led roof of house" visible="1"/>
+    <Element collapsed="0" type="model" name="led sidewalk outline inside" visible="1"/>
+    <Element collapsed="0" type="model" name="led stars in window" visible="1"/>
+    <Element collapsed="0" type="model" name="led door" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Tree #1 Blue" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Tree #1 Red" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Tree #2 Blue" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Tree #2 Red" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Tree #3 Blue" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Tree #3 Red" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Tree #4 Blue" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Tree #4 Red" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Tree #5 Blue" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini Tree #5 Red" visible="1"/>
+    <Element collapsed="0" type="model" name="bush left red" visible="1"/>
+    <Element collapsed="0" type="model" name="bush left white" visible="1"/>
+    <Element collapsed="0" type="model" name="bush right red" visible="1"/>
+    <Element collapsed="0" type="model" name="bush right white" visible="1"/>
+    <Element collapsed="0" type="model" name="tree trunk left multicolor" visible="1"/>
+    <Element collapsed="0" type="model" name="tree trunk left white" visible="1"/>
+    <Element collapsed="0" type="model" name="tree trunk right multicolor" visible="1"/>
+    <Element collapsed="0" type="model" name="tree trunk right white" visible="1"/>
+    <Element collapsed="0" type="model" name="Flood #1" visible="1"/>
+    <Element collapsed="0" type="model" name="Flood #2" visible="1"/>
+    <Element collapsed="0" type="model" name="Flood #3" visible="1"/>
+    <Element collapsed="0" type="model" name="Flood #4" visible="1"/>
+    <Element collapsed="0" type="model" name="Flood #5" visible="1"/>
+    <Element collapsed="0" type="model" name="RGB Left Garage" visible="1"/>
+    <Element collapsed="0" type="model" name="RGB Left Offset Garage" visible="1"/>
+    <Element collapsed="0" type="model" name="RGB Left Peek Garage" visible="1"/>
+    <Element collapsed="0" type="model" name="RGB Right Offset Garage" visible="1"/>
+    <Element collapsed="0" type="model" name="RGB Right Peek Garage" visible="1"/>
+    <Element collapsed="0" type="model" name="RGB Roof Front House" visible="1"/>
+    <Element collapsed="0" type="model" name="RGB Display Sign" visible="1"/>
+    <Element collapsed="0" type="model" name="RGB Megatree" visible="1"/>
+    <Element collapsed="0" type="model" name="led purple bush" visible="1"/>
+    <Element collapsed="0" type="model" name="Column Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Column Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="500ms Metronome" fixed="500">
+      <EffectLayer/>
+    </Element>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All LED Front of House Elements">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Mini Trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Red Mini Trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Blue Mini Trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All On Trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All EVERYTHING">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Flood Lights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All RGB House">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="ALL RGB">
+      <EffectLayer>
+        <Effect ref="0" name="Color Wash" startTime="0" endTime="6500" palette="0"/>
+        <Effect ref="0" name="Color Wash" id="1" startTime="6500" endTime="13050" palette="0"/>
+        <Effect ref="0" name="Color Wash" id="2" startTime="13050" endTime="20000" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="All White Lights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="p10 matrix">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spiral Tree 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spiral Tree 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spiral Tree Large 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spiral Tree Large 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spiral Tree Large 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spiral Tree 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="led drip tubes in trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="led outside sidewalk multicolor">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="led roof of house">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="led sidewalk outline inside">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="led stars in window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="led door">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree #1 Blue">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree #1 Red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree #2 Blue">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree #2 Red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree #3 Blue">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree #3 Red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree #4 Blue">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree #4 Red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree #5 Blue">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree #5 Red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="bush left red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="bush left white">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="bush right red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="bush right white">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="tree trunk left multicolor">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="tree trunk left white">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="tree trunk right multicolor">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="tree trunk right white">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Flood #1">
+      <EffectLayer>
+        <Effect ref="1" name="On" startTime="0" endTime="10000" palette="1"/>
+        <Effect ref="2" name="On" id="1" startTime="10000" endTime="20000" palette="2"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Flood #2">
+      <EffectLayer>
+        <Effect ref="1" name="On" startTime="0" endTime="10000" palette="3"/>
+        <Effect ref="2" name="On" id="1" startTime="10000" endTime="20000" palette="4"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Flood #3">
+      <EffectLayer>
+        <Effect ref="1" name="On" startTime="0" endTime="10000" palette="5"/>
+        <Effect ref="2" name="On" id="1" startTime="10000" endTime="20000" palette="4"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Flood #4">
+      <EffectLayer>
+        <Effect ref="1" name="On" startTime="0" endTime="10000" palette="6"/>
+        <Effect ref="2" name="On" id="1" startTime="10000" endTime="20000" palette="4"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Flood #5">
+      <EffectLayer>
+        <Effect ref="1" name="On" startTime="0" endTime="10000" palette="7"/>
+        <Effect ref="2" name="On" id="1" startTime="10000" endTime="20000" palette="4"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="RGB Left Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB Left Offset Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB Left Peek Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB Right Offset Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB Right Peek Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB Roof Front House">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB Display Sign">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB Megatree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="led purple bush">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Column Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Column Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+</xsequence>

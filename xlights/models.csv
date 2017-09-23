@@ -1,0 +1,108 @@
+Model Name,Description,Display As,String Type,String Count,Node Count,Light Count,Est Current (Amps),Channels Per Node, Channel Count,Start Channel,Start Channel No,End Channel No,Preview,Controller Connection,Controller Type,Controller Description,Output,IP,Universe,Controller Channel,Inactive
+"16 inch 2 prong-1","","Custom","RGB Nodes",0,36,36,2.16,3,108,#59:1,7528,7635,Default,,E131,"",22,MULTICAST,59,1,FALSE
+"16 inch 2 prong-1-1","","Custom","RGB Nodes",0,36,36,2.16,3,108,>16 inch 2 prong-1:1,7636,7743,Default,,E131,"",22,MULTICAST,59,109,FALSE
+"16 inch 2 prong-1-2","","Custom","RGB Nodes",0,36,36,2.16,3,108,>16 inch 2 prong-1-1:1,7744,7851,Default,,E131,"",22,MULTICAST,59,217,FALSE
+"16 inch 2 prong-1-3","","Custom","RGB Nodes",0,36,36,2.16,3,108,>16 inch 2 prong-1-2:1,7852,7959,Default,,E131,"",22,MULTICAST,59,325,FALSE
+"16 inch 3 prong","","Custom","RGB Nodes",0,36,36,2.16,3,108,>16 inch 2 prong-1-3:1,7960,8067,Default,,E131,"",22,MULTICAST,59,433,FALSE
+"16 inch 3 prong-1","","Custom","RGB Nodes",0,36,36,2.16,3,108,>16 inch 3 prong:1,8068,8175,Default,,E131,"",23,MULTICAST,60,29,FALSE
+"16 inch 3 prong-2","","Custom","RGB Nodes",0,36,36,2.16,3,108,>16 inch 3 prong-1:1,8176,8283,Default,,E131,"",23,MULTICAST,60,137,FALSE
+"16 inch 3 prong-3","","Custom","RGB Nodes",0,36,36,2.16,3,108,>16 inch 3 prong-2:1,8284,8391,Default,,E131,"",23,MULTICAST,60,245,FALSE
+"16 inch Arrow","","Custom","RGB Nodes",0,36,36,2.16,3,108,>16 inch 3 prong-3:1,8392,8499,Default,,E131,"",23,MULTICAST,60,353,FALSE
+"16 inch Arrow-1","","Custom","RGB Nodes",0,36,36,2.16,3,108,>16 inch Arrow:1,8500,8607,Default,,E131,"",23,MULTICAST,60,461,FALSE
+"16 inch Arrow-2","","Custom","RGB Nodes",0,36,36,2.16,3,108,>16 inch Arrow-1:1,8608,8715,Default,,E131,"",24,MULTICAST,61,57,FALSE
+"16 inch Arrow-3","","Custom","RGB Nodes",0,36,36,2.16,3,108,>16 inch Arrow-2:1,8716,8823,Default,,E131,"",24,MULTICAST,61,165,FALSE
+"ALL RGB","Flood #1, Flood #2, Flood #3, Flood #4, Flood #5, RGB Display Sign, RGB Left Garage, RGB Left Offset Garage, RGB Left Peek Garage, RGB Right Offset Garage, RGB Right Peek Garage, RGB Roof Front House, RGB Megatree, Wreath-inside, Wreath-middle, Wreath-outside, Window Left, Window Right, Arches, Spiral Tree 1, Spiral Tree 2, Spiral Tree 3, Spiral Tree Large 1, Spiral Tree Large 2, Spiral Tree Large 3, p10matrix","ModelGroup",,,,,,,16695,,49,16743,Default,,,,,,,
+"All Blue Mini Trees","Mini Tree #1 Blue, Mini Tree #2 Blue, Mini Tree #3 Blue, Mini Tree #4 Blue, Mini Tree #5 Blue","ModelGroup",,,,,,,9,,17,25,Default,,,,,,,
+"All EVERYTHING","led roof of house, led sidewalk outline inside, led stars in window, tree trunk left multicolor, tree trunk left white, tree trunk right multicolor, tree trunk right white, led outside sidewalk multicolor, led twinklers, led drip tubes in trees, led door, bush right white, bush right red, bush left white, bush left red, RGB Megatree, Mini Tree #5 Red, Mini Tree #5 Blue, Mini Tree #4 Red, Mini Tree #4 Blue, Mini Tree #3 Red, Mini Tree #3 Blue, Mini Tree #2 Red, Mini Tree #2 Blue, Mini Tree #1 Red, Mini Tree #1 Blue, Flood #1, Flood #2, Flood #3, Flood #4, Flood #5, RGB Left Garage, RGB Left Offset Garage, RGB Left Peek Garage, RGB Right Offset Garage, RGB Right Peek Garage, RGB Roof Front House, RGB Display Sign, Window Left, Window Right, Wreath-inside, Wreath-middle, Wreath-outside, Arches, Column Left, Column Right, Double Garage Multi-color, led purple bush, Single Garage Multi-color, Goal Post, Saguaro, Spiral Tree 1, Spiral Tree 2, Spiral Tree 3, 16 inch 2 prong-1, 16 inch 2 prong-1-1, 16 inch 2 prong-1-2, 16 inch 2 prong-1-3, 16 inch 3 prong, 16 inch 3 prong-1, 16 inch 3 prong-2, 16 inch 3 prong-3, 16 inch Arrow, 16 inch Arrow-1, 16 inch Arrow-2, 16 inch Arrow-3, ChromaStar Tree Topper, MediumFlake4, MediumFlake4-1, MediumFlake4-2, MediumFlake4-3, Megaflake LLS, Megaflake LLS/Center Star, Megaflake LLS/Verticals, Megaflake LLS/Cross arms, Megaflake LLS/Arms, Window Left/left vertical, Window Left/right vertical, Window Left/top horizontal, Window Left/bottom horizontal, Window Left/middle horizontal, Window Left/middle vertical","ModelGroup",,,,,,,10959,,1,10959,Default,,,,,,,
+"All Flood Lights","Flood #1, Flood #2, Flood #3, Flood #4, Flood #5","ModelGroup",,,,,,,15,,49,63,Default,,,,,,,
+"All LED Front of House Elements","bush left red, bush left white, bush right red, bush right white, led door, led twinklers, led roof of house, led stars in window, led purple bush","ModelGroup",,,,,,,37,,35,71,Default,,,,,,,
+"All Mini Trees","Mini Tree #1 Blue, Mini Tree #1 Red, Mini Tree #2 Blue, Mini Tree #2 Red, Mini Tree #3 Blue, Mini Tree #3 Red, Mini Tree #4 Blue, Mini Tree #4 Red, Mini Tree #5 Blue, Mini Tree #5 Red","ModelGroup",,,,,,,10,,17,26,Default,,,,,,,
+"All On Trees","led drip tubes in trees, tree trunk left multicolor, tree trunk left white, tree trunk right multicolor, tree trunk right white","ModelGroup",,,,,,,5,,31,35,Default,,,,,,,
+"All RGB House","RGB Left Garage, RGB Left Offset Garage, RGB Left Peek Garage, RGB Right Offset Garage, RGB Right Peek Garage, RGB Roof Front House, Window Left, Window Right","ModelGroup",,,,,,,10878,,64,10941,Default,,,,,,,
+"All Red Mini Trees","Mini Tree #1 Red, Mini Tree #2 Red, Mini Tree #3 Red, Mini Tree #4 Red, Mini Tree #5 Red","ModelGroup",,,,,,,9,,18,26,Default,,,,,,,
+"All White Lights","bush left white, bush right white, led door, led drip tubes in trees, led twinklers, led roof of house, led stars in window, tree trunk left white, tree trunk right white","ModelGroup",,,,,,,36,,34,69,Default,,,,,,,
+"Arches","","Arches","RGB Nodes",5,145,145,8.70,3,435,#52:1,3944,4378,Default,,E131,"",15,MULTICAST,52,1,FALSE
+"ChromaStar Tree Topper","","Custom","RGB Nodes",2,90,90,5.40,3,270,>RGB Megatree:1,2920,3189,Default,,E131,"",13,MULTICAST,50,1,FALSE
+"Column Left","","Poly Line","RGB Nodes",1,50,50,3.00,3,150,>Double Garage Multi-color:1,9856,10005,Default,,E131,"",26,192.168.1.207,63,281,FALSE
+"Column Right","","Poly Line","RGB Nodes",1,50,50,3.00,3,150,>Column Left:1,10006,10155,Default,,E131,"",26,192.168.1.207,63,431,FALSE
+"Double Garage Multi-color","","Poly Line","RGB Nodes",1,100,100,6.00,3,300,>Single Garage Multi-color:1,9556,9855,Default,,E131,"",25,MULTICAST,62,493,FALSE
+"Flood #1","","Custom","RGB Nodes",0,1,1,0.06,3,3,2:1,49,51,Default,,E131,"",2,192.168.0.50,2,1,FALSE
+"Flood #2","","Custom","RGB Nodes",0,1,1,0.06,3,3,2:4,52,54,Default,,E131,"",2,192.168.0.50,2,4,FALSE
+"Flood #3","","Custom","RGB Nodes",0,1,1,0.06,3,3,2:7,55,57,Default,,E131,"",2,192.168.0.50,2,7,FALSE
+"Flood #4","","Custom","RGB Nodes",0,1,1,0.06,3,3,2:10,58,60,Default,,E131,"",2,192.168.0.50,2,10,FALSE
+"Flood #5","","Custom","RGB Nodes",0,1,1,0.06,3,3,2:13,61,63,Default,,E131,"",2,192.168.0.50,2,13,FALSE
+"Goal Post","","Custom","Single Color Custom",1,1,39,,1,1,10,10,10,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,10,TRUE
+"MediumFlake4","","Custom","RGB Nodes",0,36,36,2.16,3,108,>16 inch Arrow-3:1,8824,8931,Default,,E131,"",24,MULTICAST,61,273,FALSE
+"MediumFlake4-1","","Custom","RGB Nodes",0,36,36,2.16,3,108,>MediumFlake4:1,8932,9039,Default,,E131,"",24,MULTICAST,61,381,FALSE
+"MediumFlake4-2","","Custom","RGB Nodes",0,36,36,2.16,3,108,>MediumFlake4-1:1,9040,9147,Default,,E131,"",24,MULTICAST,61,489,FALSE
+"MediumFlake4-3","","Custom","RGB Nodes",0,36,36,2.16,3,108,>MediumFlake4-2:1,9148,9255,Default,,E131,"",25,MULTICAST,62,85,FALSE
+"Megaflake LLS","","Custom","RGB Nodes",0,174,174,10.44,3,522,>Wreath-outside:1,10438,10959,Default,,E131,"",27,192.168.1.207,64,351,FALSE
+"Mini Tree #1 Blue","","Custom","Single Color Blue",1,1,8,,1,1,17,17,17,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,17,TRUE
+"Mini Tree #1 Red","","Custom","Single Color Red",1,1,8,,1,1,18,18,18,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,18,TRUE
+"Mini Tree #2 Blue","","Custom","Single Color Blue",1,1,8,,1,1,19,19,19,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,19,TRUE
+"Mini Tree #2 Red","","Custom","Single Color Red",1,1,8,,1,1,20,20,20,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,20,TRUE
+"Mini Tree #3 Blue","","Custom","Single Color Blue",1,1,8,,1,1,21,21,21,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,21,TRUE
+"Mini Tree #3 Red","","Custom","Single Color Red",1,1,8,,1,1,22,22,22,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,22,TRUE
+"Mini Tree #4 Blue","","Custom","Single Color Blue",1,1,8,,1,1,23,23,23,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,23,TRUE
+"Mini Tree #4 Red","","Custom","Single Color Red",1,1,8,,1,1,24,24,24,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,24,TRUE
+"Mini Tree #5 Blue","","Custom","Single Color Blue",1,1,8,,1,1,25,25,25,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,25,TRUE
+"Mini Tree #5 Red","","Custom","Single Color Red",1,1,8,,1,1,26,26,26,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,26,TRUE
+"RGB Display Sign","","Matrix","RGB Nodes",1,10,10,0.60,3,30,3:397,460,489,Default,,E131,"",3,192.168.0.50,3,397,FALSE
+"RGB House Roof","RGB Right Offset Garage, RGB Right Peek Garage, RGB Roof Front House, RGB Left Offset Garage, RGB Left Peek Garage, RGB Left Garage","ModelGroup",,,,,,,396,,322,717,Default,,,,,,,
+"RGB Left Garage","","Single Line","RGB Nodes",1,23,23,1.38,3,69,3:1,64,132,Default,,E131,"",3,192.168.0.50,3,1,FALSE
+"RGB Left Offset Garage","","Single Line","RGB Nodes",1,5,5,0.30,3,15,3:70,133,147,Default,,E131,"",3,192.168.0.50,3,70,FALSE
+"RGB Left Peek Garage","","Single Line","RGB Nodes",1,29,29,1.74,3,87,3:85,148,234,Default,,E131,"",3,192.168.0.50,3,85,FALSE
+"RGB Megatree","","Tree","RGB Nodes",9,810,810,48.60,3,2430,4:1,490,2919,Default,,E131,"",4,MULTICAST,4,1,FALSE
+"RGB Right Offset Garage","","Single Line","RGB Nodes",1,5,5,0.30,3,15,3:259,322,336,Default,,E131,"",3,192.168.0.50,3,259,FALSE
+"RGB Right Peek Garage","","Single Line","RGB Nodes",1,29,29,1.74,3,87,3:172,235,321,Default,,E131,"",3,192.168.0.50,3,172,FALSE
+"RGB Roof Front House","","Single Line","RGB Nodes",1,41,41,2.46,3,123,3:274,337,459,Default,,E131,"",3,192.168.0.50,3,274,FALSE
+"Saguaro","","Custom","Single Color Green",1,1,228,,1,1,38,38,38,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,38,TRUE
+"Single Garage Multi-color","","Poly Line","RGB Nodes",1,100,100,6.00,3,300,>MediumFlake4-3:1,9256,9555,Default,,E131,"",25,MULTICAST,62,193,FALSE
+"Spinner","","Spinner","RGB Nodes",12,60,60,3.60,3,180,>ChromaStar Tree Topper:1,3190,3369,Default,,E131,"",13,MULTICAST,50,271,FALSE
+"Spiral Tree 1","","Tree","RGB Nodes",1,75,75,4.50,3,225,#53:1,4456,4680,Default,,E131,"",16,192.168.1.248,53,1,FALSE
+"Spiral Tree 2","","Tree","RGB Nodes",1,60,60,3.60,3,180,>Spiral Tree 1:1,4681,4860,Default,,E131,"",16,192.168.1.248,53,226,FALSE
+"Spiral Tree 3","","Tree","RGB Nodes",1,70,70,4.20,3,210,>Spiral Tree 2:1,4861,5070,Default,,E131,"",16,192.168.1.248,53,406,FALSE
+"Spiral Tree Large 1","","Tree","RGB Nodes",1,90,90,5.40,3,270,#55:1,5480,5749,Default,,E131,"",18,MULTICAST,55,1,FALSE
+"Spiral Tree Large 2","","Tree","RGB Nodes",1,90,90,5.40,3,270,>Spiral Tree Large 1:1,5750,6019,Default,,E131,"",18,MULTICAST,55,271,FALSE
+"Spiral Tree Large 3","","Tree","RGB Nodes",1,90,90,5.40,3,270,>Spiral Tree Large 2:1,6020,6289,Default,,E131,"",19,MULTICAST,56,29,FALSE
+"Spiral Trees","Spiral Tree 1, Spiral Tree 2, Spiral Tree 3, Spiral Tree Large 1, Spiral Tree Large 2, Spiral Tree Large 3","ModelGroup",,,,,,,1834,,4456,6289,Default,,,,,,,
+"Tree","","Tree","RGB Nodes",1,50,50,3.00,3,150,1,1,150,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,1,TRUE
+"Tree-1","","Tree","RGB Nodes",1,50,50,3.00,3,150,>Tree:1,151,300,Default,,E131,"",3,192.168.0.50,3,88,FALSE
+"Tree-2","","Tree","RGB Nodes",1,50,50,3.00,3,150,>Tree-1:1,301,450,Default,,E131,"",3,192.168.0.50,3,238,FALSE
+"Tree-3","","Tree","RGB Nodes",1,50,50,3.00,3,150,>Tree-2:1,451,600,Default,,E131,"",3,192.168.0.50,3,388,FALSE
+"Tree-4","","Tree","RGB Nodes",1,50,50,3.00,3,150,>Tree-3:1,601,750,Default,,E131,"",4,MULTICAST,4,112,FALSE
+"Tree-5","","Tree","RGB Nodes",1,50,50,3.00,3,150,>Tree-4:1,751,900,Default,,E131,"",4,MULTICAST,4,262,FALSE
+"Tree-6","","Tree","RGB Nodes",1,50,50,3.00,3,150,>Tree-5:1,901,1050,Default,,E131,"",5,MULTICAST,5,142,FALSE
+"Tree-7","","Tree","RGB Nodes",1,50,50,3.00,3,150,>Tree-6:1,1051,1200,Default,,E131,"",6,MULTICAST,6,22,FALSE
+"Tree-8","","Tree","RGB Nodes",1,50,50,3.00,3,150,>Tree-7:1,1201,1350,Default,,E131,"",6,MULTICAST,6,172,FALSE
+"Tree-9","","Tree","RGB Nodes",1,50,50,3.00,3,150,>Tree-8:1,1351,1500,Default,,E131,"",7,MULTICAST,7,52,FALSE
+"Window Left","","Poly Line","RGB Nodes",1,84,84,5.04,3,252,>Wreath-outside:1,10438,10689,Default,,E131,"",27,192.168.1.207,64,351,FALSE
+"Window Right","","Poly Line","RGB Nodes",1,84,84,5.04,3,252,>Window Left:1,10690,10941,Default,,E131,"",28,192.168.1.207,65,91,FALSE
+"Wreath","Wreath-outside, Wreath-inside, Wreath-middle","ModelGroup",,,,,,,282,,10336,10617,Default,,,,,,,
+"Wreath-inside","","Wreath","RGB Nodes",1,28,28,1.68,3,84,>Column Right:1,10156,10239,Default,,E131,"",27,192.168.1.207,64,69,FALSE
+"Wreath-middle","","Wreath","RGB Nodes",1,32,32,1.92,3,96,>Wreath-inside:1,10240,10335,Default,,E131,"",27,192.168.1.207,64,153,FALSE
+"Wreath-outside","","Wreath","RGB Nodes",1,34,34,2.04,3,102,>Wreath-middle:1,10336,10437,Default,,E131,"",27,192.168.1.207,64,249,FALSE
+"bush left red","","Custom","Single Color Red",1,1,25,,1,1,35,35,35,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,35,TRUE
+"bush left white","","Custom","Single Color White",1,1,25,,1,1,34,34,34,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,34,TRUE
+"bush right red","","Custom","Single Color Red",1,1,95,,1,1,37,37,37,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,37,TRUE
+"bush right white","","Custom","Single Color White",1,1,95,,1,1,36,36,36,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,36,TRUE
+"led door","","Custom","Single Color White",1,1,35,,1,1,6,6,6,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,6,TRUE
+"led drip tubes in trees","","Custom","Single Color White",1,1,29,,1,1,31,31,31,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,31,TRUE
+"led outside sidewalk multicolor","","Custom","Single Color Custom",1,1,416,,1,1,32,32,32,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,32,TRUE
+"led purple bush","","Custom","Single Color Custom",1,1,50,,1,1,9,9,9,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,9,TRUE
+"led roof of house","","Custom","Single Color White",1,1,124,,1,1,1,1,1,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,1,TRUE
+"led sidewalk outline inside","","Custom","Single Color Custom",1,1,40,,1,1,2,2,2,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,2,TRUE
+"led stars in window","","Custom","Single Color White",1,1,10,,1,1,5,5,5,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,5,TRUE
+"led twinklers","","Custom","Single Color White",1,1,30,,1,1,4,4,4,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,4,TRUE
+"p10 matrix","p10matrix","ModelGroup",,,,,,,9216,,7528,16743,Default,,,,,,,
+"p10matrix","","Matrix","RGB Nodes",48,3072,3072,184.32,3,9216,#59:1,7528,16743,Default,,E131,"",22,MULTICAST,59,1,FALSE
+"tree trunk left multicolor","","Custom","Single Color Custom",1,1,54,,1,1,28,28,28,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,28,TRUE
+"tree trunk left white","","Custom","Single Color White",1,1,54,,1,1,27,27,27,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,27,TRUE
+"tree trunk right multicolor","","Custom","Single Color Custom",1,1,54,,1,1,30,30,30,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,30,TRUE
+"tree trunk right white","","Custom","Single Color White",1,1,54,,1,1,29,29,29,Default,,LOR,"",1,/dev/cu.usbserial-A901BF83,57600,29,TRUE
+
+"Model Count",101
+"First Used Channel",1
+"Last Used Channel",16743
+"Actual Used Channel",14445
+"Bulbs",5158

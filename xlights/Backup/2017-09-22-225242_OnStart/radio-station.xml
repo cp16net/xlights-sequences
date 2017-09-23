@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1">
+  <head>
+    <version>4.2.24</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>30.000</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#00FF00,C_BUTTON_Palette3=#0000FF,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#000000,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_SLIDER_Brightness=100,C_SLIDER_Contrast=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#00FF00,C_BUTTON_Palette3=#0000FF,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#000000,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_SLIDER_Brightness=100,C_SLIDER_Contrast=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=right,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=7,E_TEXTCTRL_Curtain_Speed=1.5,T_CHECKBOX_LayerMorph=0,T_CHECKBOX_OverlayBkg=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadein=0.00,T_TEXTCTRL_Fadeout=0</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=left,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=7,E_TEXTCTRL_Curtain_Speed=1.5,T_CHECKBOX_LayerMorph=0,T_CHECKBOX_OverlayBkg=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadein=0.00,T_TEXTCTRL_Fadeout=0</Effect>
+    <Effect>E_CHECKBOX_On_Shimmer=0,E_TEXTCTRL_Eff_On_End=100,E_TEXTCTRL_Eff_On_Start=100,E_TEXTCTRL_On_Cycles=1.00,T_CHECKBOX_LayerMorph=0,T_CHECKBOX_OverlayBkg=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadein=0.00,T_TEXTCTRL_Fadeout=0</Effect>
+    <Effect>E_CHECKBOX_TextToCenter1=0,E_CHECKBOX_TextToCenter2=0,E_CHECKBOX_TextToCenter3=0,E_CHECKBOX_TextToCenter4=0,E_CHECKBOX_Text_PixelOffsets1=0,E_CHOICE_Text_Count1=none,E_CHOICE_Text_Count2=none,E_CHOICE_Text_Count3=none,E_CHOICE_Text_Count4=none,E_CHOICE_Text_Dir1=left,E_CHOICE_Text_Dir2=left,E_CHOICE_Text_Dir3=left,E_CHOICE_Text_Dir4=left,E_CHOICE_Text_Effect1=normal,E_CHOICE_Text_Effect2=normal,E_CHOICE_Text_Effect3=normal,E_CHOICE_Text_Effect4=normal,E_FONTPICKER_Text_Font1='courier new' macroman,E_FONTPICKER_Text_Font2='courier new' macroman,E_FONTPICKER_Text_Font3='.sf ns text' macroman,E_FONTPICKER_Text_Font4='.sf ns text' macroman,E_SLIDER_Text_Position2=38,E_SLIDER_Text_Position3=50,E_SLIDER_Text_Position4=50,E_SLIDER_Text_XEnd1=0,E_SLIDER_Text_XStart1=0,E_SLIDER_Text_YEnd1=0,E_SLIDER_Text_YStart1=10,E_TEXTCTRL_Text_Line1=Radio,E_TEXTCTRL_Text_Line2=101.1 FM,E_TEXTCTRL_Text_Line3=,E_TEXTCTRL_Text_Line4=,E_TEXTCTRL_Text_Speed1=10,E_TEXTCTRL_Text_Speed2=10,E_TEXTCTRL_Text_Speed3=10,E_TEXTCTRL_Text_Speed4=10,T_CHECKBOX_LayerMorph=0,T_CHECKBOX_OverlayBkg=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadein=0.00,T_TEXTCTRL_Fadeout=0</Effect>
+    <Effect>E_CHECKBOX_TextToCenter1=0,E_CHECKBOX_TextToCenter2=0,E_CHECKBOX_TextToCenter3=0,E_CHECKBOX_TextToCenter4=0,E_CHECKBOX_Text_PixelOffsets1=0,E_CHOICE_Text_Count1=none,E_CHOICE_Text_Count2=none,E_CHOICE_Text_Count3=none,E_CHOICE_Text_Count4=none,E_CHOICE_Text_Dir1=left,E_CHOICE_Text_Dir2=left,E_CHOICE_Text_Dir3=left,E_CHOICE_Text_Dir4=left,E_CHOICE_Text_Effect1=normal,E_CHOICE_Text_Effect2=normal,E_CHOICE_Text_Effect3=normal,E_CHOICE_Text_Effect4=normal,E_FONTPICKER_Text_Font1='courier new' macroman,E_FONTPICKER_Text_Font2='courier new' macroman,E_FONTPICKER_Text_Font3='.sf ns text' macroman,E_FONTPICKER_Text_Font4='.sf ns text' macroman,E_SLIDER_Text_Position2=38,E_SLIDER_Text_Position3=50,E_SLIDER_Text_Position4=50,E_SLIDER_Text_XEnd1=0,E_SLIDER_Text_XStart1=0,E_SLIDER_Text_YEnd1=0,E_SLIDER_Text_YStart1=10,E_TEXTCTRL_Text_Line1=Happy,E_TEXTCTRL_Text_Line2=Holidays,E_TEXTCTRL_Text_Line3=,E_TEXTCTRL_Text_Line4=,E_TEXTCTRL_Text_Speed1=10,E_TEXTCTRL_Text_Speed2=10,E_TEXTCTRL_Text_Speed3=10,E_TEXTCTRL_Text_Speed4=10,T_CHECKBOX_LayerMorph=0,T_CHECKBOX_OverlayBkg=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadein=0.00,T_TEXTCTRL_Fadeout=0</Effect>
+    <Effect>E_CHECKBOX_TextToCenter1=0,E_CHECKBOX_TextToCenter2=0,E_CHECKBOX_TextToCenter3=0,E_CHECKBOX_TextToCenter4=0,E_CHECKBOX_Text_PixelOffsets1=0,E_CHOICE_Text_Count1=none,E_CHOICE_Text_Count2=none,E_CHOICE_Text_Count3=none,E_CHOICE_Text_Count4=none,E_CHOICE_Text_Dir1=left,E_CHOICE_Text_Dir2=left,E_CHOICE_Text_Dir3=left,E_CHOICE_Text_Dir4=left,E_CHOICE_Text_Effect1=normal,E_CHOICE_Text_Effect2=normal,E_CHOICE_Text_Effect3=normal,E_CHOICE_Text_Effect4=normal,E_FONTPICKER_Text_Font1='.sf ns text' 18 macroman,E_FONTPICKER_Text_Font2='.sf ns text' macroman,E_FONTPICKER_Text_Font3='.sf ns text' macroman,E_FONTPICKER_Text_Font4='.sf ns text' macroman,E_SLIDER_Text_Position2=38,E_SLIDER_Text_Position3=50,E_SLIDER_Text_Position4=50,E_SLIDER_Text_XEnd1=0,E_SLIDER_Text_XStart1=0,E_SLIDER_Text_YEnd1=0,E_SLIDER_Text_YStart1=0,E_TEXTCTRL_Text_Line1=Enjoy :-),E_TEXTCTRL_Text_Line2=,E_TEXTCTRL_Text_Line3=,E_TEXTCTRL_Text_Line4=,E_TEXTCTRL_Text_Speed1=17,E_TEXTCTRL_Text_Speed2=17,E_TEXTCTRL_Text_Speed3=10,E_TEXTCTRL_Text_Speed4=10,T_CHECKBOX_LayerMorph=0,T_CHECKBOX_OverlayBkg=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadein=0.00,T_TEXTCTRL_Fadeout=0</Effect>
+    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=Right,E_SLIDER_Bars_BarCount=5,E_TEXTCTRL_Bars_Cycles=10.1,T_CHECKBOX_LayerMorph=0,T_CHECKBOX_OverlayBkg=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadein=1,T_TEXTCTRL_Fadeout=1</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="103" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="Empty" visible="1" active="0" views=""/>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" active="1" views="RGB,led"/>
+    <Element collapsed="0" type="model" name="All EVERYTHING" visible="1" active="0"/>
+    <Element collapsed="0" type="model" name="led roof of house" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="led sidewalk outline inside" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="led single garage door" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="led stars in window" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="tree trunk left multicolor" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="tree trunk left white" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="tree trunk right multicolor" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="tree trunk right white" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="led right column" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="led outside sidewalk multicolor" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="led left column twinklers" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="led left column" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="led drip tubes in trees" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="led double garage" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="led door" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="bush right white" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="bush right red" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="bush left white" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="bush left red" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="RGB Megatree" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="Mini Tree #5 Red" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="Mini Tree #5 Blue" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="Mini Tree #4 Red" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="Mini Tree #4 Blue" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="Mini Tree #3 Red" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="Mini Tree #3 Blue" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="Mini Tree #2 Red" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="Mini Tree #2 Blue" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="Mini Tree #1 Red" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="Mini Tree #1 Blue" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="Flood #1" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="Flood #2" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="Flood #3" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="Flood #4" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="Flood #5" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="RGB Left Garage" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="RGB Left Offset Garage" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="RGB Left Peek Garage" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="RGB Right Offset Garage" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="RGB Right Peek Garage" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="RGB Roof Front House" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="RGB Display Sign" visible="0" active="0"/>
+    <Element collapsed="0" type="model" name="All RGB House" visible="1" active="0"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="Empty">
+      <EffectLayer/>
+    </Element>
+    <Element type="timing" name="New Timing">
+      <EffectLayer>
+        <Effect label="" startTime="0" endTime="5050"></Effect>
+        <Effect label="" startTime="5050" endTime="9950"></Effect>
+        <Effect label="" startTime="9950" endTime="15050"></Effect>
+        <Effect label="" startTime="15050" endTime="25050"></Effect>
+        <Effect label="" startTime="25050" endTime="30100"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="All EVERYTHING">
+      <EffectLayer>
+        <Effect ref="0" name="Curtain" startTime="0" endTime="5000" palette="0"/>
+        <Effect ref="1" name="Curtain" id="1" startTime="5000" endTime="9950" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="led roof of house">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="led sidewalk outline inside">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="led single garage door">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="led stars in window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="tree trunk left multicolor">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="tree trunk left white">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="tree trunk right multicolor">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="tree trunk right white">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="led right column">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="led outside sidewalk multicolor">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="led left column twinklers">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="led left column">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="led drip tubes in trees">
+      <EffectLayer>
+        <Effect ref="2" name="On" startTime="0" endTime="31250" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="led double garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="led door">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="bush right white">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="bush right red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="bush left white">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="bush left red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB Megatree">
+      <EffectLayer>
+        <Effect ref="3" name="Text" startTime="0" endTime="15050" palette="0"/>
+        <Effect ref="4" name="Text" id="1" startTime="15050" endTime="23150" palette="1"/>
+        <Effect ref="3" name="Text" id="2" startTime="23200" endTime="27350" palette="0"/>
+        <Effect ref="5" name="Text" id="3" startTime="27350" endTime="30100" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Mini Tree #5 Red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree #5 Blue">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree #4 Red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree #4 Blue">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree #3 Red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree #3 Blue">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree #2 Red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree #2 Blue">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree #1 Red">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini Tree #1 Blue">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Flood #1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Flood #2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Flood #3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Flood #4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Flood #5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB Left Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB Left Offset Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB Left Peek Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB Right Offset Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB Right Peek Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB Roof Front House">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB Display Sign">
+      <EffectLayer>
+        <Effect ref="2" name="On" startTime="0" endTime="31300" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="All RGB House">
+      <EffectLayer/>
+      <EffectLayer>
+        <Effect ref="6" name="Bars" startTime="14250" endTime="26350" palette="1"/>
+      </EffectLayer>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+</xsequence>

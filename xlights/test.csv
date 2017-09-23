@@ -1,0 +1,65 @@
+Model Name,Description,Display As,String Type,String Count,Node Count,Light Count,Channels Per Node, Channel Count,Start Channel,Start Channel No,End Channel No,My Display,Controller Type,Controller Description,Output,IP,Universe,Controller Channel,Inactive
+"Arches","","Arches","RGB Nodes",5,145,145,3,435,#52:1,3944,4378,Default,E131,"",15,MULTICAST,52,1,FALSE
+"Column Left","","Poly Line","Single Color White",1,1,1,1,1,3,3,3,Default,LOR,"",1,,,3,FALSE
+"Column Right","","Poly Line","Single Color White",1,1,1,1,1,33,33,33,Default,LOR,"",1,,,33,FALSE
+"Double Garage Multi-color","","Poly Line","Single Color Custom",1,1,1,1,1,7,7,7,Default,LOR,"",1,,,7,FALSE
+"Flood #1","","Custom","RGB Nodes",0,1,1,3,3,2:1,49,51,Default,E131,"",2,192.168.0.50,2,1,FALSE
+"Flood #2","","Custom","RGB Nodes",0,1,1,3,3,2:4,52,54,Default,E131,"",2,192.168.0.50,2,4,FALSE
+"Flood #3","","Custom","RGB Nodes",0,1,1,3,3,2:7,55,57,Default,E131,"",2,192.168.0.50,2,7,FALSE
+"Flood #4","","Custom","RGB Nodes",0,1,1,3,3,2:10,58,60,Default,E131,"",2,192.168.0.50,2,10,FALSE
+"Flood #5","","Custom","RGB Nodes",0,1,1,3,3,2:13,61,63,Default,E131,"",2,192.168.0.50,2,13,FALSE
+"Goal Post","","Custom","Single Color Custom",1,1,1,1,1,10,10,10,Default,LOR,"",1,,,10,FALSE
+"Mini Tree #1 Blue","","Custom","Single Color Blue",1,1,1,1,1,17,17,17,Default,LOR,"",1,,,17,FALSE
+"Mini Tree #1 Red","","Custom","Single Color Red",1,1,1,1,1,18,18,18,Default,LOR,"",1,,,18,FALSE
+"Mini Tree #2 Blue","","Custom","Single Color Blue",1,1,1,1,1,19,19,19,Default,LOR,"",1,,,19,FALSE
+"Mini Tree #2 Red","","Custom","Single Color Red",1,1,1,1,1,20,20,20,Default,LOR,"",1,,,20,FALSE
+"Mini Tree #3 Blue","","Custom","Single Color Blue",1,1,1,1,1,21,21,21,Default,LOR,"",1,,,21,FALSE
+"Mini Tree #3 Red","","Custom","Single Color Red",1,1,1,1,1,22,22,22,Default,LOR,"",1,,,22,FALSE
+"Mini Tree #4 Blue","","Custom","Single Color Blue",1,1,1,1,1,23,23,23,Default,LOR,"",1,,,23,FALSE
+"Mini Tree #4 Red","","Custom","Single Color Red",1,1,1,1,1,24,24,24,Default,LOR,"",1,,,24,FALSE
+"Mini Tree #5 Blue","","Custom","Single Color Blue",1,1,1,1,1,25,25,25,Default,LOR,"",1,,,25,FALSE
+"Mini Tree #5 Red","","Custom","Single Color Red",1,1,1,1,1,26,26,26,Default,LOR,"",1,,,26,FALSE
+"RGB Display Sign","","Matrix","RGB Nodes",1,10,10,3,30,3:397,460,489,Default,E131,"",3,192.168.0.50,3,397,FALSE
+"RGB Left Garage","","Single Line","RGB Nodes",1,23,23,3,69,3:1,64,132,Default,E131,"",3,192.168.0.50,3,1,FALSE
+"RGB Left Offset Garage","","Single Line","RGB Nodes",1,5,5,3,15,3:70,133,147,Default,E131,"",3,192.168.0.50,3,70,FALSE
+"RGB Left Peek Garage","","Single Line","RGB Nodes",1,29,29,3,87,3:85,148,234,Default,E131,"",3,192.168.0.50,3,85,FALSE
+"RGB Megatree","","Tree","RGB Nodes",9,810,810,3,2430,4:1,490,2919,Default,E131,"",4,MULTICAST,4,1,FALSE
+"RGB Right Offset Garage","","Single Line","RGB Nodes",1,5,5,3,15,3:259,322,336,Default,E131,"",3,192.168.0.50,3,259,FALSE
+"RGB Right Peek Garage","","Single Line","RGB Nodes",1,29,29,3,87,3:172,235,321,Default,E131,"",3,192.168.0.50,3,172,FALSE
+"RGB Roof Front House","","Single Line","RGB Nodes",1,41,41,3,123,3:274,337,459,Default,E131,"",3,192.168.0.50,3,274,FALSE
+"Saguaro","","Custom","Single Color Green",1,1,1,1,1,38,38,38,Default,LOR,"",1,,,38,FALSE
+"Single Garage Multi-color","","Poly Line","Single Color Custom",1,1,1,1,1,8,8,8,Default,LOR,"",1,,,8,FALSE
+"Spiral Tree 1","","Tree","RGB Nodes",1,75,75,3,225,#53:1,4456,4680,Default,E131,"",16,192.168.1.248,53,1,FALSE
+"Spiral Tree 2","","Tree","RGB Nodes",1,60,60,3,180,>Spiral Tree 1:1,4681,4860,Default,E131,"",16,192.168.1.248,53,226,FALSE
+"Spiral Tree 3","","Tree","RGB Nodes",1,70,70,3,210,>Spiral Tree 2:1,4861,5070,Default,E131,"",16,192.168.1.248,53,406,FALSE
+"Spiral Tree Large 1","","Tree","RGB Nodes",1,90,90,3,270,#55:1,5480,5749,Default,E131,"",18,MULTICAST,55,1,FALSE
+"Spiral Tree Large 2","","Tree","RGB Nodes",1,90,90,3,270,>Spiral Tree Large 1:1,5750,6019,Default,E131,"",18,MULTICAST,55,271,FALSE
+"Spiral Tree Large 3","","Tree","RGB Nodes",1,90,90,3,270,>Spiral Tree Large 2:1,6020,6289,Default,E131,"",19,MULTICAST,56,29,FALSE
+"Window Left","","Poly Line","RGB Nodes",1,84,84,3,252,>Wreath-outside:1,3202,3453,Default,E131,"",13,MULTICAST,50,283,FALSE
+"Window Right","","Poly Line","RGB Nodes",1,84,84,3,252,>Window Left:1,3454,3705,Default,E131,"",14,MULTICAST,51,23,FALSE
+"Wreath-inside","","Wreath","RGB Nodes",1,28,28,3,84,>RGB Megatree:1,2920,3003,Default,E131,"",13,MULTICAST,50,1,FALSE
+"Wreath-middle","","Wreath","RGB Nodes",1,32,32,3,96,>Wreath-inside:1,3004,3099,Default,E131,"",13,MULTICAST,50,85,FALSE
+"Wreath-outside","","Wreath","RGB Nodes",1,34,34,3,102,>Wreath-middle:1,3100,3201,Default,E131,"",13,MULTICAST,50,181,FALSE
+"bush left red","","Custom","Single Color Red",1,1,1,1,1,35,35,35,Default,LOR,"",1,,,35,FALSE
+"bush left white","","Custom","Single Color White",1,1,1,1,1,34,34,34,Default,LOR,"",1,,,34,FALSE
+"bush right red","","Custom","Single Color Red",1,1,1,1,1,37,37,37,Default,LOR,"",1,,,37,FALSE
+"bush right white","","Custom","Single Color White",1,1,1,1,1,36,36,36,Default,LOR,"",1,,,36,FALSE
+"led door","","Custom","Single Color White",1,1,1,1,1,6,6,6,Default,LOR,"",1,,,6,FALSE
+"led drip tubes in trees","","Custom","Single Color White",1,1,1,1,1,31,31,31,Default,LOR,"",1,,,31,FALSE
+"led outside sidewalk multicolor","","Custom","Single Color Custom",1,1,1,1,1,32,32,32,Default,LOR,"",1,,,32,FALSE
+"led purple bush","","Custom","Single Color Custom",1,1,1,1,1,9,9,9,Default,LOR,"",1,,,9,FALSE
+"led roof of house","","Custom","Single Color White",1,1,1,1,1,1,1,1,Default,LOR,"",1,,,1,FALSE
+"led sidewalk outline inside","","Custom","Single Color Custom",1,1,1,1,1,2,2,2,Default,LOR,"",1,,,2,FALSE
+"led stars in window","","Custom","Single Color White",1,1,1,1,1,5,5,5,Default,LOR,"",1,,,5,FALSE
+"led twinklers","","Custom","Single Color White",1,1,1,1,1,4,4,4,Default,LOR,"",1,,,4,FALSE
+"p10matrix","","Matrix","RGB Nodes",48,3072,3072,3,9216,#59:1,7528,16743,Default,E131,"",22,MULTICAST,59,1,FALSE
+"tree trunk left multicolor","","Custom","Single Color Custom",1,1,1,1,1,28,28,28,Default,LOR,"",1,,,28,FALSE
+"tree trunk left white","","Custom","Single Color White",1,1,1,1,1,27,27,27,Default,LOR,"",1,,,27,FALSE
+"tree trunk right multicolor","","Custom","Single Color Custom",1,1,1,1,1,30,30,30,Default,LOR,"",1,,,30,FALSE
+"tree trunk right white","","Custom","Single Color White",1,1,1,1,1,29,29,29,Default,LOR,"",1,,,29,FALSE
+
+"Model Count",58
+"First Used Channel",1
+"Last Used Channel",16743
+"Actual Used Channel",14765
+"Bulbs",4943
