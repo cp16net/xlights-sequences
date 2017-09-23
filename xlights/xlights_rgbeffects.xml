@@ -152,7 +152,7 @@
   <views>
     <view name="RGB" models="All RGB House,All Flood Lights,RGB Megatree,ALL RGB"/>
     <view name="led" models="All LED Front of House Elements,All Mini Trees,All On Trees,All Blue Mini Trees,All Red Mini Trees,All EVERYTHING,All Flood Lights,ALL RGB,All RGB House,All White Lights,Arches,bush left red,bush left white,bush right red,bush right white,Column Left,Column Right,Flood #1,Flood #2,Flood #3,Flood #4,Flood #5,led door,led drip tubes in trees,led twinklers,led outside sidewalk multicolor,led purple bush,led roof of house,led sidewalk outline inside,led stars in window,Mini Tree #1 Blue,Mini Tree #1 Red,Mini Tree #2 Blue,Mini Tree #2 Red,Mini Tree #3 Blue,Mini Tree #3 Red,Mini Tree #4 Blue,Mini Tree #4 Red,Mini Tree #5 Blue,Mini Tree #5 Red,RGB Display Sign,RGB House Roof,RGB Left Garage,RGB Left Offset Garage,RGB Left Peek Garage,RGB Megatree,RGB Right Offset Garage,RGB Right Peek Garage,RGB Roof Front House,Spiral Tree 1,Spiral Tree 2,Spiral Tree 3,Spiral Tree Large 1,Spiral Tree Large 2,Spiral Tree Large 3,Spiral Trees,tree trunk left multicolor,tree trunk left white,tree trunk right multicolor,tree trunk right white,Window Left,Window Right,Wreath-single"/>
-    <view name="p10" models=""/>
+    <view name="Halloween" models="Column Right,Column Left,Flood #1,Flood #2,Flood #3,Flood #4,Flood #5,RGB Left Garage,RGB Left Offset Garage,RGB Left Peek Garage,RGB Right Offset Garage,RGB Right Peek Garage,RGB Roof Front House,Window Left,Window Right"/>
   </views>
   <palettes/>
   <modelGroups>

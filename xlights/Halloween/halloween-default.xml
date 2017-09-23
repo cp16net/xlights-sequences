@@ -2,14 +2,14 @@
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="false">
   <head>
     <version>2017.29</version>
-    <author/>
-    <author-email/>
-    <author-website/>
-    <song/>
-    <artist/>
-    <album/>
-    <MusicURL/>
-    <comment/>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
     <sequenceTiming>50 ms</sequenceTiming>
     <sequenceType>Animation</sequenceType>
     <mediaFile/>
@@ -97,6 +97,9 @@
     <Element collapsed="0" type="model" name="Column Left" visible="1"/>
     <Element collapsed="0" type="model" name="Column Right" visible="1"/>
     <Element collapsed="0" type="model" name="Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="led twinklers" visible="1"/>
+    <Element collapsed="0" type="model" name="RGB House Roof" visible="1"/>
+    <Element collapsed="0" type="model" name="Spiral Trees" visible="1"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="500ms Metronome" fixed="500">
@@ -238,7 +241,7 @@
     <Element type="model" name="Flood #1">
       <EffectLayer>
         <Effect ref="1" name="On" startTime="0" endTime="10000" palette="1"/>
-        <Effect ref="2" name="On" selected="1" id="1" startTime="10000" endTime="20000" palette="2"/>
+        <Effect ref="2" name="On" id="1" startTime="10000" endTime="20000" palette="2"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Flood #2">
@@ -299,6 +302,15 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="Arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="led twinklers">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB House Roof">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spiral Trees">
       <EffectLayer/>
     </Element>
   </ElementEffects>
